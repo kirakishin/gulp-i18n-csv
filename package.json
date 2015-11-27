@@ -1,5 +1,5 @@
 {
-  "name": "gulp-i18n-csv",
+  "name": "gulp-i18n-csv-kira",
   "version": "1.0.2",
   "description": "Create internationalized files from a CSV translations file",
   "license": "MIT",
